@@ -42,6 +42,7 @@ Normal Text
 Github(https://github.com)
 
 **Data**
+
 |Name|RollNo|Branch|
 |----|------|------|
 |Devi|06|IT|
